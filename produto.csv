@@ -1,0 +1,9 @@
+id,nome,descrição,preço,marca,id_categoria,id_fornecedor
+1,Camiseta básica,"Camisa de algodão",49.9,Nike,1,1
+2,Camiseta Polo,"Camisa polo masculina",89.9,Lacoste,1,2
+3,Calça jeans,"Calça jeans tradicional",129.9,Levi's,2,1
+4,Calça Social,"Calça social masculina",159.9,Zara,2,3
+5,Vestido floral,"Vestido estampado floral",119.9,Renner,3,2
+6,Vestido longo,"Vestido longo feminino",189.9,Farm,3,3
+7,Jaqueta jeans,"Jaqueta jeans azul",179.9,Levi's,4,1
+8,jaqueta de couro,"Jaqueta de couro sintético",249.9,Zara,4,3
