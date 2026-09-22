@@ -1,0 +1,13 @@
+id_movimentação,id_produto,tipo,quantidade,data
+1,1,Entrada,30,01/09/2026
+2,1,Saída,10,03/09/2026
+3,2,Entrada,20,04/09/2026
+4,3,Entrada,25,05/09/2026
+5,3,Saída,5,07/09/2026
+6,4,Entrada,15,08/09/2026
+7,5,Entrada,20,10/09/2026
+8,5,Saída,5,12/09/2026
+9,6,Entrada,10,13/09/2026
+10,7,Entrada,8,15/09/2026
+11,8,Entrada,5,17/09/2026
+12,8,Saída,2,19/09/2026
