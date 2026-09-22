@@ -37,3 +37,6 @@
 | Movimentacao de Estoque | tipo              | Enum    | —       | Tipo de movimentação: Entrada ou Saída                        |
 | Movimentacao de Estoque | quantidade        | Inteiro | 11      | Quantidade de produtos movimentados                           |
 | Movimentacao de Estoque | data              | Data    | —       | Data em que ocorreu a movimentação                            |
+
+## Dados em CSV:
+- ![Categoria.csv](./Categoria.csv)
