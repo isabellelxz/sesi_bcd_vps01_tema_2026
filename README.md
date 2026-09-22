@@ -124,3 +124,4 @@ CREATE TABLE movimentacao_estoque (
         CHECK (quantidade > 0)
 );
 ```
+
